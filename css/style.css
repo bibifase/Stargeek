@@ -1,0 +1,126 @@
+.Login {
+    background-color: black;
+    background-image: url(/img/Group\ 6.png);
+    background-repeat: no-repeat;
+    
+}
+.entrar {
+    padding: 10px 20px;
+    background-color: #8D2954;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FC036C;
+    border: 3px solid #A12559;
+    font-family: "Minecraft.ttf";
+    text-shadow: 2px 2px 3px black;
+    font-weight: 400;
+    margin-bottom: 10%;
+    margin-left: 60px;
+}
+@font-face {
+    font-family: "Minecraft.ttf";
+    src: url(/Minecraft.ttf) format(truetype);
+}
+.div {
+    padding: 10px 20px;
+    width: 400px;
+    height: 600px;
+    background-color: #af105255;
+    border: #ffffff;
+    border-radius: 15px;
+    margin-left: 900px;
+    margin-top: 150px;
+    box-shadow: 1px 1px 20px #a8004f;
+}
+.text {
+    padding: 10px 20px;
+    background-color: #482735;
+    border: 5px;
+    border-radius: 10px;
+    font-family: "Minecraft.ttf";
+    font-size: 150%;
+    margin-bottom: 50px;
+}
+h1 {
+    font-family: "Minecraft.ttf";
+    text-align: center;
+    color: #d23677;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    font-size: 60px;
+    border:9px 5px black;
+    background: -webkit-linear-gradient(#d23677, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+img {
+    margin-left: 120px;
+}
+@font-face {
+    font-family: "MonsterFriendFore";
+    src: url(/MonsterFriendFore.ttf) format(truetype);
+}
+.sair {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 30px;
+    margin-bottom: 0;
+    margin-left: 10px;
+    font-family: "MonsterFriendFore";
+}
+.index {
+    background-image: url(/img/Group\ 7.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #000;
+}
+.entrarr {
+    padding: 10px 30px;
+    background-color: #8D2954;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FC036C;
+    border: 3px solid #A12559;
+    font-family: "Minecraft.ttf";
+    text-shadow: 2px 2px 3px black;
+    font-weight: 500;
+    margin-left: 700px;
+    margin-top: 100px;
+    font-size: 25px;
+    box-shadow: 0px 10px 80px #ffffff;
+}
+.loginn {
+    margin-top: 50px;
+}
+.logo {
+    margin-left: 570px;
+    margin-top: 200px;
+}
+footer {
+    margin-top: 500px;
+    background-color: #000;
+}
+.baxo {
+    margin-top: 500px;
+    width: 200px;
+    height: 600px;
+    background-color: #000;
+}
+.foot {
+    margin-left: 200px;
+    width: 1000px;
+}
+.cadastro{
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(252,3,108,1) 100%);
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.nobara {
+    height: 800px;
+    margin-left: 282px;
+}
+.preto {
+    opacity: 0.5;
+    height: 800px;
+}
