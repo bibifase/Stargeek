@@ -1,6 +1,6 @@
 .Login {
     background-color: black;
-    background-image: url(./img/Group\ 6.png);
+    background-image: url(../img/Group\6.png);
     background-repeat: no-repeat;
     
 }
@@ -24,11 +24,11 @@
 }
 @font-face {
     font-family: "Minecraft.ttf";
-    src: url(/Minecraft.ttf) format(truetype);
+    src: url(../Minecraft.ttf) format(truetype);
 }
 @font-face {
     font-family: "daydream";
-    src: url(/Daydream.ttf);
+    src: url(../Daydream.ttf);
 }
 .div {
     padding: 10px 20px;
@@ -65,7 +65,7 @@
 
 @font-face {
     font-family: "MonsterFriendFore";
-    src: url(/MonsterFriendFore.ttf) format(truetype);
+    src: url(../MonsterFriendFore.ttf) format(truetype);
 }
 .sair {
     color: #ffffff;
@@ -76,7 +76,7 @@
     font-family: "MonsterFriendFore";
 }
 .index {
-    background-image: url(/img/Group\ 7.png);
+    background-image: url(../img/Group\7.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #000;
@@ -131,7 +131,7 @@ footer {
     height: 800px;
 }
 .inicial {
-    background-image: url(/img/MacBook\ Air\ -\ 6.png);
+    background-image: url(../img/MacBook\ Air\ -\ 6.png);
     background-size: contain;
 }
 .cabecalho {
@@ -230,7 +230,7 @@ footer {
     width: 300px;
 }
 .perfil {
-    background-image: url(/img/MacBook\ Air\ -\ 7.png);
+    background-image: url(../img/MacBook\ Air\ -\ 7.png);
     background-repeat: no-repeat;
     background-color: #000;
 }
@@ -464,7 +464,7 @@ footer {
 } 
 @font-face {
     font-family:"jmh" ;
-    src: url(/JMH\ Typewriter.ttf);
+    src: url(../JMH\Typewriter.ttf);
 }
 .content > h1 {
     font-family: "jmh";
@@ -478,18 +478,18 @@ footer {
 }
 @font-face {
     font-family: "grunge";
-    src: url(/grunge_zinda_bad.ttf);
+    src: url(../grunge_zinda_bad.ttf);
 }
 @font-face {
     font-family: "art";
-    src: url(/Art\ Class.ttf);
+    src: url(../Art\ Class.ttf);
 }
 @font-face {
     font-family: "satan";
-    src: url(/who\ asks\ satan.ttf);
+    src: url(../who\ asks\ satan.ttf);
 }
 .ruim:hover {
-    content: url(/img/6ae03-tumblr_mgp9ce2kgn1s31fnio1_500.webp);
+    content: url(../img/6ae03-tumblr_mgp9ce2kgn1s31fnio1_500.webp);
     height: 200px;
     width: 300px;
     transition: all 0.4s;
@@ -503,7 +503,7 @@ footer {
     margin-right: 10px;
 }
 .ruim2:hover {
-    content: url(/img/tumblr_832f2af32afe7805c4c8035327a22022_00286ffd_400.webp);
+    content: url(../img/tumblr_832f2af32afe7805c4c8035327a22022_00286ffd_400.webp);
     height: 200px;
     width: 300px;
     transition: all 0.4s;
@@ -513,7 +513,7 @@ footer {
     margin-right: 10px;
 }
 .ruim3:hover {
-    content: url(/img/tumblr_lpf8k87rbp1r11s6do1_500.gif);
+    content: url(../img/tumblr_lpf8k87rbp1r11s6do1_500.gif);
     height: 200px;
     width: 300px;
     transition: all 0.4s;
@@ -523,7 +523,7 @@ footer {
     margin-right: 10px;
 }
 .ruim4:hover {
-    content: url(/img/Eu-Nunca-Devi-e-Paxton.gif);
+    content: url(../img/Eu-Nunca-Devi-e-Paxton.gif);
     height: 200px;
     width: 300px;
     transition: all 0.4s;
@@ -533,7 +533,7 @@ footer {
     margin-right: 10px;
 }
 .ruim5:hover {
-    content: url(/img/screamqueens08.webp);
+    content: url(../img/screamqueens08.webp);
     height: 200px;
     width: 300px;
     transition: all 0.4s;
@@ -608,7 +608,7 @@ footer {
     margin-left: 105px;
 }
 .cadastro {
-    background-image: url(/img/bucete.png);
+    background-image: url(../img/bucete.png);
     background-size: 100%;
 }
 .entrar8 {

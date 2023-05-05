@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Minecraft.ttf";
-    src: url(/Minecraft.ttf) format(truetype);
+    src: url(../Minecraft.ttf) format(truetype);
 }
 .tit > h1 {
     text-align: left;
