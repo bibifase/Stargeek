@@ -764,3 +764,7 @@ footer {
     visibility: visible;
     opacity: 1;
   }
+  .gugu {
+    width: 500px;
+    height: 100px;
+  }
